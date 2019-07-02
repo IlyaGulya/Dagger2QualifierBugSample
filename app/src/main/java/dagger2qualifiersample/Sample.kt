@@ -15,7 +15,7 @@ class ImplA: Sample {
 
 class ImplB: Sample {
     override fun say() {
-        println("ImplA")
+        println("ImplB")
     }
 
 }
